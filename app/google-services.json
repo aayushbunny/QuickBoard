@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656636700932",
+    "project_id": "smartticket-1408b",
+    "storage_bucket": "smartticket-1408b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656636700932:android:2fafdd58e9e72ed1b58851",
+        "android_client_info": {
+          "package_name": "com.aayush.smartticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToWc4udrl9PKBiYZ8XVpCIJTxoEDOn7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
